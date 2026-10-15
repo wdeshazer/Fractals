@@ -1,0 +1,33 @@
+{
+  "workbench.colorCustomizations": {
+    "[Duck in the Dream]": {
+      "editorLineNumber.foreground": "#4f415e",
+      "gitDecoration.modifiedResourceForeground": "#96f5c4",
+      "gitDecoration.untrackedResourceForeground": "#83e079",
+      "symbolIcon.folderForeground": "#83e079",
+      "folderRegexColor.custom1": "#31e2cd",
+      "folderRegexColor.custom2": "#ff0000",
+      "folderRegexColor.custom3": "#ffc23d",
+      "folderRegexColor.custom4": "#8ee414",
+      "folderRegexColor.custom5": "#FF88CC"
+    },
+    "activityBar.background": "#0D2E52",
+    "activityBar.activeBackground": "#0D2E52",
+    "activityBar.activeBorder": "#52310D",
+    "activityBar.foreground": "#F7FAFE",
+    "activityBar.inactiveForeground": "#F7FAFE99",
+    "activityBarBadge.background": "#52310D",
+    "activityBarBadge.foreground": "#F7FAFE",
+    "titleBar.activeBackground": "#134172",
+    "titleBar.activeForeground": "#F7FAFE",
+    "titleBar.inactiveBackground": "#13417299",
+    "titleBar.inactiveForeground": "#F7FAFE99",
+    "sash.hoverBorder": "#0D2E52",
+    "commandCenter.border": "#F7FAFE99",
+    "statusBar.background": "#134172",
+    "statusBar.foreground": "#F7FAFE",
+    "statusBarItem.hoverBackground": "#113A67",
+    "statusBarItem.remoteBackground": "#134172",
+    "statusBarItem.remoteForeground": "#F7FAFE"
+  }
+}
